@@ -1,0 +1,150 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Beijing",
+      "detailId": 1
+    },
+    {
+      "id": 2,
+      "name": "Berlin",
+      "detailId": 2
+    },
+    {
+      "id": 3,
+      "name": "Dubai",
+      "detailId": 3
+    },
+    {
+      "id": 4,
+      "name": "London",
+      "detailId": 4
+    },
+    {
+      "id": 5,
+      "name": "Moscow",
+      "detailId": 5
+    },
+    {
+      "id": 6,
+      "name": "Mumbai",
+      "detailId": 6
+    },
+    {
+      "id": 7,
+      "name": "New York",
+      "detailId": 7
+    },
+    {
+      "id": 8,
+      "name": "Sydney",
+      "detailId": 8
+    },
+    {
+      "id": 9,
+      "name": "Paris",
+      "detailId": 9
+    },
+    {
+      "id": 10,
+      "name": "Rio de Janeiro",
+      "detailId": 10
+    },
+    {
+      "id": 11,
+      "name": "Tokyo",
+      "detailId": 11
+    },
+    {
+      "id": 12,
+      "name": "Nairobi",
+      "detailId": 12
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "founded": "1045 BCE",
+      "population": 21542000,
+      "area": 16410.5,
+      "timeZone": "UTC+08 (CST)"
+    },
+    {
+      "id": 2,
+      "founded": "1237 CE",
+      "population": 3723914,
+      "area": 891.7,
+      "timeZone": "UTC+01:00 (CET)"
+    },
+    {
+      "id": 3,
+      "founded": "1833 CE",
+      "population": 3137463,
+      "area": 4114,
+      "timeZone": "UTC+04:00 (UAEST)"
+    },
+    {
+      "id": 4,
+      "founded": "47 CE",
+      "population": 8825000,
+      "area": 1572,
+      "timeZone": "UTC+00:00 (GMT)"
+    },
+    {
+      "id": 5,
+      "founded": "1147 CE",
+      "population": 11503501,
+      "area": 2511,
+      "timeZone": "UTC+03:00 (MSK)"
+    },
+    {
+      "id": 6,
+      "founded": "1507 CE",
+      "population": 12442373,
+      "area": 603,
+      "timeZone": "UTC+05:30 (IST)"
+    },
+    {
+      "id": 7,
+      "founded": "1624 CE",
+      "population": 8175133,
+      "area": 1213.37,
+      "timeZone": "UTC−05:00 (EST)"
+    },
+    {
+      "id": 8,
+      "founded": "1788 CE",
+      "population": 5131326,
+      "area": 12367.7,
+      "timeZone": "UTC+10:00 (AEST)"
+    },
+    {
+      "id": 9,
+      "founded": "3rd Century BCE",
+      "population": 2140526,
+      "area": 105.4,
+      "timeZone": "UTC+01:00 (CET)"
+    },
+    {
+      "id": 10,
+      "founded": "1565 CE",
+      "population": 6688930,
+      "area": 1221,
+      "timeZone": "UTC−03:00 (BRT)"
+    },
+    {
+      "id": 11,
+      "founded": "1457 CE",
+      "population": 13839910,
+      "area": 2187.66,
+      "timeZone": "UTC+09:00 (JST)"
+    },
+    {
+      "id": 12,
+      "founded": "1899 CE",
+      "population": 4000000,
+      "area": 696,
+      "timeZone": "UTC+03:00 (EAT)"
+    }
+  ]
+}
