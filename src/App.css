@@ -18,10 +18,15 @@
   font-size: 0.8em;
   margin: 16px 0px 0px 0px;
   padding: 18px;
+  background: #F0F0F0;
 }
 
 .detail {
   display: flex;
+}
+
+.detail:nth-child(even) {
+ background: #F5F5F5;
 }
 
 .detail .label {
